@@ -1,19 +1,18 @@
-<h1 align="center">Hi 👋, I'm Taeef Najib</h1>
-<h3 align="center">A passionate Data Science learner from Bangladesh</h3>
+<h1 align="center">Hi, I'm Taeef Najib</h1>
+<h4 align="center">A passionate Data Science learner from Dhaka, Bangladesh. I've graduated in Business Administration, worked as a Digital Marketer, worked as a freelance visualizer (a Top-rated freelancer on Upwork) and later decided to pivot to Data Science.</h4>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=taeefnajib" alt="taeefnajib" /></a> </p>
+<h3>Areas of Interest</h3>
+**Data Analytics, Machine Learning, Deep Learning, Neural Network, Natural Language Processing, Computer Vision, Robotics, IoT, and more**
 
-- 🔭 I’m currently working on **Deep Neural Network**
+<h3>Currently Pursuing</h3>
+**Data Analytics, Machine Learning, ANN, CNN, RNN, NLP, CV, Software Development**
 
-- 🌱 I’m currently learning **Big Data,**
+<h3>Interested to Learn</h3>
+**Big Data, Robotics, IoT**
 
-- 👯 I’m looking to collaborate on **Natural Language Processing (NLP) and Computer Vision (CV)**
+👨‍💻 All of my projects are available at -> [https://github.com/taeefnajib](https://github.com/taeefnajib)
 
-- 👨‍💻 All of my projects are available at [https://github.com/taeefnajib](https://github.com/taeefnajib)
-
-- 📫 How to reach me **taeefnajib@gmail.com**
-
-- ⚡ Fun fact **I graduated in Business Administration, worked as a freelance visualizer, and now I'm pivoting to Data Science.**
+📫 How to reach me **taeefnajib@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
