@@ -5,7 +5,7 @@
 **Data Analytics, Machine Learning, Deep Learning, Neural Network, Natural Language Processing, Computer Vision, and more**
 
 <h3>**Currently Pursuing**</h3>
-**Data Analytics, Machine Learning, ANN, CNN, RNN, NLP, CV**
+**Data Analytics, Machine Learning, ANN, CNN, RNN, NLP, CV, MLOps**
 
 <h3>Interested to Learn</h3>
 **Big Data, Robotics, IoT**
