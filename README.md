@@ -4,8 +4,8 @@
 <h3>Areas of Expertise</h3>
 
 * Exploratory Data Analysis,
-* Machine Learning, 
-* Deep Learning, 
+* Machine Learning (Classification, Regression, Time-series Forecasting, Recommender Engine, etc.), 
+* Deep Learning (ANN, CNN, LSTM, etc.), 
 * Natural Language Processing, 
 * Computer Vision, 
 * MLOps
@@ -35,9 +35,24 @@
   </ul>
   
   
-<h3 align="left">BI Tool:</h3>
+<h3 align="left">Tool:</h3>
   <ul>
-  <li>Tableau</li>
+  <li>BI Tools:
+    <ul>
+      <li>Tableau</li>
+    </ul>
+  </li>
+  <li>Version Control:
+    <ul>
+      <li>Git</li>
+      <li>DVC</li>
+    </ul>
+  </li>
+  <li>ML Experiment Tracking:
+    <ul>
+      <li>MLFlow</li>
+    </ul>
+  </li>
   </ul>
   
   <h3 align="left">Machine Learning/Deep Learning:</h3>
@@ -50,6 +65,7 @@
       <li>Logistic Regression</li>
       <li>KNN</li>
       <li>SVC</li>
+      <li>Naive Bayes Classifier</li>
     </ul>
   </li>
   <li>Regression
