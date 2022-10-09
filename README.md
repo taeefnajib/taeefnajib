@@ -35,7 +35,7 @@
   </ul>
   
   
-<h3 align="left">Tool:</h3>
+<h3 align="left">Tools:</h3>
   <ul>
   <li>BI Tools:
     <ul>
