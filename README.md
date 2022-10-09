@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Taeef Najib</h1>
-<p align="center">A passionate Data Science learner from Dhaka, Bangladesh. I've graduated in Business Administration, worked as a Digital Marketer, worked as a freelance visualizer (a Top-rated freelancer on Upwork) and later decided to pivot to Data Science.</p>
+<p align="center">A passionate Data Science learner from Dhaka, Bangladesh. I'm currently working as a Software Development Engineer I at a AI company. </p>
 
 <h3>Areas of Expertise</h3>
 
