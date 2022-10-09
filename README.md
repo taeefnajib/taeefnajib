@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Taeef Najib</h1>
-<p align="center">A passionate Data Science learner from Dhaka, Bangladesh. I'm currently working as a Software Development Engineer I at a AI company. </p>
+<p align="center">A passionate Data Science learner from Dhaka, Bangladesh. I'm currently working as a Software Development Engineer I at a U.S.-based AI startup. </p>
 
 <h3>Areas of Expertise</h3>
 
