@@ -53,6 +53,12 @@
       <li>MLFlow</li>
     </ul>
   </li>
+  <li>Misc:
+    <ul>
+      <li>Streamlit</li>
+      <li>FastAPIt</li>
+    </ul>
+  </li>
   </ul>
   
   <h3 align="left">Machine Learning/Deep Learning:</h3>
@@ -83,6 +89,12 @@
     <ul>
       <li>ARIMA</li>
       <li>Facebook Prophet</li>
+    </ul>
+  </li>
+  <li>Recommender Engine
+    <ul>
+      <li>Collaborative Filtering</li>
+      <li>Content-based Filtering</li>
     </ul>
   </li>
   <li>Deep Learning
