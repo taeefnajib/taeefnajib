@@ -56,7 +56,7 @@
   <li>Misc:
     <ul>
       <li>Streamlit</li>
-      <li>FastAPIt</li>
+      <li>FastAPI</li>
     </ul>
   </li>
   </ul>
