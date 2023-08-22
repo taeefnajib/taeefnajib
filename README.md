@@ -24,13 +24,6 @@
 <h3 align="left">Languages:</h3>
   <ul>
   <li>Python
-    <ul>
-      **Libraries**
-      <li>Pandas</li>
-      <li>Numpy</li>
-      <li>Matplotlib</li>
-      <li>Scikit-learn</li>
-    </ul>
   </li>
   <li>R (Basic)</li>
   <li>SQL</li>
