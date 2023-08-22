@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Taeef Najib</h1>
-<p align="center">A passionate Data Science learner, currently working as a Software Development Engineer I at a U.S.-based AI startup. I'm a 2x Kaggle Expert. You can visit my medium blog. </p>
+<p align="center">A passionate Data Science learner, currently working as a Software Development Engineer I at a U.S.-based AI startup. I'm a 2x Kaggle Expert. You can visit my medium blog at [https://medium.com/@taeefnajib](https://medium.com/@taeefnajib). </p>
 
 <h3>Things I do</h3>
 
