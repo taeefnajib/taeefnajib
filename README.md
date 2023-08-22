@@ -1,16 +1,19 @@
 <h1 align="center">Hi, I'm Taeef Najib</h1>
-<p align="center">A passionate Data Science learner, currently working as a Software Development Engineer I at a U.S.-based AI startup. I'm a 2x Kaggle Expert. </p>
+<p align="center">A passionate Data Science learner, currently working as a Software Development Engineer I at a U.S.-based AI startup. I'm a 2x Kaggle Expert. You can visit my medium blog. </p>
 
-<h3>Areas of Expertise</h3>
+<h3>Things I do</h3>
 
 * Data Cleaning
-* Exploratory Data Analysis,
+* Exploratory Data Analysis
 * Feature Engineering
 * Machine Learning (Classification, Regression, Time-series Forecasting, Recommender Engine, etc.), 
 * Deep Learning (ANN, CNN, LSTM, etc.), 
 * Natural Language Processing, 
-* Computer Vision, 
-* MLOps
+* Computer Vision
+* Hyperparameter Tuning
+* Containerization
+* Experiment Tracking
+* Data Version Control
 
 <br>
 
