@@ -1,9 +1,11 @@
 <h1 align="center">Hi, I'm Taeef Najib</h1>
-<p align="center">A passionate Data Science learner from Dhaka, Bangladesh. I'm currently working as a Software Development Engineer I at a U.S.-based AI startup. </p>
+<p align="center">A passionate Data Science learner, currently working as a Software Development Engineer I at a U.S.-based AI startup. I'm a 2x Kaggle Expert. </p>
 
 <h3>Areas of Expertise</h3>
 
+* Data Cleaning
 * Exploratory Data Analysis,
+* Feature Engineering
 * Machine Learning (Classification, Regression, Time-series Forecasting, Recommender Engine, etc.), 
 * Deep Learning (ANN, CNN, LSTM, etc.), 
 * Natural Language Processing, 
@@ -23,6 +25,7 @@
   <ul>
   <li>Python
     <ul>
+      **Libraries**
       <li>Pandas</li>
       <li>Numpy</li>
       <li>Matplotlib</li>
@@ -31,7 +34,6 @@
   </li>
   <li>R (Basic)</li>
   <li>SQL</li>
-  <li>MongoDB (Basic)</li>
   </ul>
   
   
@@ -56,6 +58,7 @@
   <li>Misc:
     <ul>
       <li>Streamlit</li>
+      <li>BentoML</li>
       <li>FastAPI</li>
     </ul>
   </li>
@@ -64,42 +67,16 @@
   <h3 align="left">Machine Learning/Deep Learning:</h3>
   <ul>
   <li>Classification
-    <ul>
-      <li>Random Forest</li>
-      <li>Decision Tree</li>
-      <li>XGBoost</li>
-      <li>Logistic Regression</li>
-      <li>KNN</li>
-      <li>SVC</li>
-      <li>Naive Bayes Classifier</li>
-    </ul>
   </li>
   <li>Regression
-    <ul>
-      <li>Linear Regression</li>
-      <li>Plynomial Regression</li>
-      <li>Ridge Regression</li>
-      <li>Lasso Regression</li>
-      <li>Random Forest Regression</li>
-      <li>Decision Tree Regression</li>
-      <li>SVR</li>
-    </ul>
   </li>
   <li>Time-series Forecasting
-    <ul>
-      <li>ARIMA</li>
-      <li>Facebook Prophet</li>
-    </ul>
   </li>
   <li>Recommender Engine
-    <ul>
-      <li>Collaborative Filtering</li>
-      <li>Content-based Filtering</li>
-    </ul>
   </li>
   <li>Deep Learning
     <ul>
-      <li>PyTorch</li>
+      <li>Library: PyTorch</li>
     </ul>
   </li>
   <li>Computer Vision and NLP
