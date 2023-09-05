@@ -1,86 +1,61 @@
-<h1 align="center">Hi, I'm Taeef Najib</h1>
-<p align="center">A passionate Data Science learner, currently working as a Software Development Engineer I at a U.S.-based AI startup. I'm a 2x Kaggle Expert. You can visit my medium blog at [https://medium.com/@taeefnajib](https://medium.com/@taeefnajib). </p>
+![Header](https://media.licdn.com/dms/image/D5616AQFDmiNdsrVDlg/profile-displaybackgroundimage-shrink_350_1400/0/1693905599902?e=1699488000&v=beta&t=YrhafpD08ylSEKlCFDx4NITo-zHe7rxMLWaC6ciZ7QQ)
 
-<h3>Things I do</h3>
+# Hi, I'm Taeef! 👋
 
-* Data Cleaning
-* Exploratory Data Analysis
-* Feature Engineering
-* Machine Learning (Classification, Regression, Time-series Forecasting, Recommender Engine, etc.), 
-* Deep Learning (ANN, CNN, LSTM, etc.), 
-* Natural Language Processing, 
-* Computer Vision
-* Hyperparameter Tuning
-* Containerization
-* Experiment Tracking
-* Data Version Control
+I'm a self-taught Python coder with a diverse skill set in Data Science and AI, currently working as a Software Development Engineer I at Sidetrek, a US-based AI startup. My passion lies in becoming a data scientist who seeks to play a pivotal role in transforming data into actionable insights and contributing to AI research within the organization, drawing upon my technical expertise, entrepreneurial background, and innovative mindset.
 
-<br>
+## 🛠 Skills
+- **Language:** 
+    - Python
+    - SQL
+    - R
+- **Machine Learning:** 
+    - Classification, Regression, Clustering, Time-series Forecasting, Anomaly Detection, Recommender Engine
+    - **Libraries:** 
+        - Scikit-learn, 
+        - XGBoost, 
+        - Catboost, 
+        - LightGBM, 
+        - PyCaret, 
+        - Prophet, 
+        - ARIMA & SARIMA
+- **Feature Engineering:** Feature scaling, feature encoding, binning or discretization, feature extraction, etc.
+- **Data Preprocessing:** Data cleaning, data imputation, normalization, and transformation skills using libraries like Pandas, Scikit-learn, etc.
+- **Model Evaluation & Improvement:** Model evaluation through cross-validation, metrics (e.g., accuracy, F1 score), and ROC curves, and hyperparameter tuning using GridSearchCV, RandomizedSearchCV and Bayesian optimization (using Optuna)
+- **Model Interpretability:** Explaining models using XAI tools like SHAP, Facets and LIME.
+- **Natural Language Processing (NLP):**
+    - **Libraries:**
+        - SpaCy
+        - NLTK
+        - Hugging Face Transformers
+- **Computer Vision:**
+    - **Libraries:**
+        - OpenCV
+        - YOLO
+- **Data Versioning:** Data version control using DVC
+- **Model Management:** Experiment tracking and model versioning using MLFlow
+- **Model Deployment:** Containerization using Docker, creating web apps using Flask, Streamlit, deploying models as REST APIs using FastAPI, BentoML, etc. 
+- **Neural Network:**
+    - ANN, CNN, RNN, LSTM
+    - **Libraries:** 
+        - PyTorch
+- **BI Tools:**
+    - Tableau
 
-👨‍💻 All of my projects are available at -> [https://github.com/taeefnajib](https://github.com/taeefnajib)
-
-<br>
-
-📫 How to reach me **taeefnajib@gmail.com**
 
 
-<h3 align="left">Languages:</h3>
-  <ul>
-  <li>Python
-  </li>
-  <li>R (Basic)</li>
-  <li>SQL</li>
-  </ul>
-  
-  
-<h3 align="left">Tools:</h3>
-  <ul>
-  <li>BI Tools:
-    <ul>
-      <li>Tableau</li>
-    </ul>
-  </li>
-  <li>Version Control:
-    <ul>
-      <li>Git</li>
-      <li>DVC</li>
-    </ul>
-  </li>
-  <li>ML Experiment Tracking:
-    <ul>
-      <li>MLFlow</li>
-    </ul>
-  </li>
-  <li>Misc:
-    <ul>
-      <li>Streamlit</li>
-      <li>BentoML</li>
-      <li>FastAPI</li>
-    </ul>
-  </li>
-  </ul>
-  
-  <h3 align="left">Machine Learning/Deep Learning:</h3>
-  <ul>
-  <li>Classification
-  </li>
-  <li>Regression
-  </li>
-  <li>Time-series Forecasting
-  </li>
-  <li>Recommender Engine
-  </li>
-  <li>Deep Learning
-    <ul>
-      <li>Library: PyTorch</li>
-    </ul>
-  </li>
-  <li>Computer Vision and NLP
-    <ul>
-      <li>OpenCV</li>
-      <li>YOLOv5 and YOLOv6</li>
-      <li>NLTK</li>
-      <li>spaCy</li>
-    </ul>
-  </li>
-  </ul>
+## ⚡️ Fun Fact:
+
+- I'm a 2x Kaggle Expert. Visit my [Kaggle Profile](https://www.kaggle.com/taeefnajib)
+
+- I post Data Science and ML related writeups on my [Medium blog](https://medium.com/@taeefnajib).
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://taeefnajib.github.io/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taeefnajib/)
+
+
+## 📫 Contact Me
+- 📮 taeefnajib@gmail.com
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=taeefnajib&show_icons=true&rank_icon=github)
