@@ -1,5 +1,6 @@
 <img align="right" source="https://visitor-badge.laobi.icu/badge?page_id=taeefnajib.taeefnajib"/>
-![Header](https://media.licdn.com/dms/image/D5616AQFDmiNdsrVDlg/profile-displaybackgroundimage-shrink_350_1400/0/1693905599902?e=1699488000&v=beta&t=YrhafpD08ylSEKlCFDx4NITo-zHe7rxMLWaC6ciZ7QQ)
+<img align="center" source="https://media.licdn.com/dms/image/D5616AQFDmiNdsrVDlg/profile-displaybackgroundimage-shrink_350_1400/0/1693905599902?e=1699488000&v=beta&t=YrhafpD08ylSEKlCFDx4NITo-zHe7rxMLWaC6ciZ7QQ"/>
+
 
 # Hi, I'm Taeef! 👋
 
