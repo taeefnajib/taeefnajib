@@ -1,6 +1,5 @@
 ![Header](https://media.licdn.com/dms/image/D5616AQFDmiNdsrVDlg/profile-displaybackgroundimage-shrink_350_1400/0/1693905599902?e=1699488000&v=beta&t=YrhafpD08ylSEKlCFDx4NITo-zHe7rxMLWaC6ciZ7QQ)
 
-
 # Hi, I'm Taeef! 👋
 
 I'm a self-taught Python coder with a diverse skill set in Data Science and AI, currently working as a Software Development Engineer I at Sidetrek, a US-based AI startup. My passion lies in becoming a data scientist who seeks to play a pivotal role in transforming data into actionable insights and contributing to AI research within the organization, drawing upon my technical expertise, entrepreneurial background, and innovative mindset.
