@@ -49,7 +49,7 @@ I'm a self-taught Python coder with a diverse skill set in Data Science and AI, 
 
 ## ⚡️ Fun Fact:
 
-- I'm a 2x Kaggle Expert. Visit my [Kaggle Profile](https://www.kaggle.com/taeefnajib)
+- I'm a 3x Kaggle Expert. Visit my [Kaggle Profile](https://www.kaggle.com/taeefnajib)
 
 - I post Data Science and ML related writeups on my [Medium blog](https://medium.com/@taeefnajib).
 
