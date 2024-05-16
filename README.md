@@ -1,6 +1,6 @@
 <html><p align="right"> <img src="https://komarev.com/ghpvc/?username=taeefnajib&label=Profile%20views&color=0e75b6&style=flat" alt="taeefnajib" /> </p></html>
 
-![Header](https://media.licdn.com/dms/image/D5616AQFDmiNdsrVDlg/profile-displaybackgroundimage-shrink_350_1400/0/1693905600565?e=1706140800&v=beta&t=GIsu-z0ZSf8bWiQ-bWrWc2NpdXseNX0YNhJylWy_yY4)
+![Header](./datascientist.jpeg)
 
 # Hi, I'm Taeef! 👋
 
